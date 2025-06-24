@@ -26,8 +26,24 @@ Automatic visualization for all convolutional layers
 
 Easy to adapt for different datasets or models
 
+📂 Dataset
+
+Dataset Source:
+Kaggle: FER 2013 Dataset
+
+Instructions:
+Download the dataset from the link above.
+
+Extract the files to your working directory.
+
+Use this dataset for further training or testing if you wish to integrate emotion detection with the sign language detection system.
+
+
+
 Model file:
 https://drive.google.com/file/d/1zEIzMiy_cgVSjboGjRIFaVmXfZRTaSjo/view?usp=sharing
 
 Model Weights:
 https://drive.google.com/file/d/1vuer3LheGJGj7dlHsJuJwtvhdah9lyoN/view?usp=sharing
+
+ 
