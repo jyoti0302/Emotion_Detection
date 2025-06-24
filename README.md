@@ -31,14 +31,13 @@ Easy to adapt for different datasets or models
 Dataset Source:
 https://www.kaggle.com/datasets/msambare/fer2013
 
-Instructions:
+**Instructions:**
+1. Download the FER-2013 dataset from the link above.
+2. Place the downloaded dataset (fer2013.csv) in your project folder.
+3. If required, convert the CSV to image files for direct image-based Grad-CAM visualization.
+4. Run the `grad_cam.py` script to generate Grad-CAM visualizations.
 
-  -Download the dataset from the link above.
-
-  -Extract the files to your working directory.
-
-  -Use this dataset for further training or testing if you wish to integrate emotion detection with the sign language detection system.
-
+> 💡 Note: Ensure the image paths in the `grad_cam.py` file match your dataset location.
 
 
 Model file:
