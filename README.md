@@ -29,14 +29,14 @@ Easy to adapt for different datasets or models
 📂 Dataset
 
 Dataset Source:
-Kaggle: FER 2013 Dataset
+https://www.kaggle.com/datasets/msambare/fer2013
 
 Instructions:
-Download the dataset from the link above.
+  -Download the dataset from the link above.
 
-Extract the files to your working directory.
+  -Extract the files to your working directory.
 
-Use this dataset for further training or testing if you wish to integrate emotion detection with the sign language detection system.
+  -Use this dataset for further training or testing if you wish to integrate emotion detection with the sign language detection system.
 
 
 
