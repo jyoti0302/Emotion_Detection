@@ -27,7 +27,7 @@ Automatic visualization for all convolutional layers
 Easy to adapt for different datasets or models
 
 Model file:
-https://drive.google.com/file/d/1ZhXJjnv9h2Fpfs8jbPlrg7_OBl0M8Hx3/view?usp=sharing
+https://drive.google.com/file/d/1zEIzMiy_cgVSjboGjRIFaVmXfZRTaSjo/view?usp=sharing
 
 Model Weights:
-https://drive.google.com/file/d/197DMyap-RxM8oMNJZrqYlu0DgWF08ClL/view?usp=sharing
+https://drive.google.com/file/d/1vuer3LheGJGj7dlHsJuJwtvhdah9lyoN/view?usp=sharing
